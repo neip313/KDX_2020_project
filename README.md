@@ -1,15 +1,12 @@
 # KDX_2020_project
 소비트렌드 코리아 2020_ 유통소비데이터분석 &amp; 시각화경진대회 from KDX 한국데이터거래소
-<<<<<<< HEAD
 
-=======
->>>>>>> 37dfd43687ac47e81e202a814f6d5d2b1b4363f6
 # contest
 
 
 ## 1st. KDX_소비트렌드 코리아 2020   
-![img_kdx1](KDX/img/kdx_event1.png)  
-![img_kdx2](KDX/img/kdx_event2.png)  
+![img_kdx1](img/kdx_event1.png)  
+![img_kdx2](img/kdx_event2.png)  
 
 **KDX 유통·소비데이터 분석 & 시각화 경진대회**  
 - **일정:** 2020.09.23 - 2020.10.25  
