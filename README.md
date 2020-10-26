@@ -36,8 +36,6 @@ KDX가 제공하는 다양한 소비 데이터(온라인 쇼핑, 오프라인 �
 **2. Data**
 - Mcorporation online purchase data    
 - Shinhancard offline purchase data  
-<<<<<<< HEAD
 - Naver keyword serch data
-=======
-- Naver keyword serch data
->>>>>>> 37dfd43687ac47e81e202a814f6d5d2b1b4363f6
+
+
