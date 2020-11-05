@@ -29,13 +29,6 @@ KDX가 제공하는 다양한 소비 데이터(온라인 쇼핑, 오프라인 �
   인사이트 점수: 인사이트 도출 / 논리 명확성 / 주제 선정과 분석 창의성  
   기술 점수: 분석 기술 수준  
   실용 점수: 대시보드 시장성과 품질  
-  
-- **대회 결과** 
-
-우수상(R러뷰 팀)   
-
-
-![대회결과]((img/kdx_resurt.png)   
 
 
 ---
@@ -48,5 +41,11 @@ KDX가 제공하는 다양한 소비 데이터(온라인 쇼핑, 오프라인 �
 - Mcorporation online purchase data    
 - Shinhancard offline purchase data  
 - Naver keyword serch data
+  
+  
+## 대회 결과 
+: 우수상(R러뷰 팀)   
 
+
+![대회결과](img/kdx_resurt.png)   
 
